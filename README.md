@@ -1,5 +1,5 @@
 # curro_paquete
-La puta lista de la compra en función de platos
+Muestra una sala de cine con tamaño de array bidimensional definido y usa una función para ocupar las butacas de manera aleatoria
 
 # Trabajo perico
 - Modifica el archivo src/curro_paquete.cpp y define las funciones que hemos declarado en curro_paquete.h
